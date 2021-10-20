@@ -1,0 +1,26 @@
+@charset 'utf-8';
+
+*{
+    box-sizing:border-box;
+    margin:0;
+    border:none;
+    padding:0;
+}
+h1,h2,h3,h4,h5,h6,strong,b{            
+    font-weight:400;
+    font-size:1em;
+}
+a{
+    color:#000000;
+    text-decoration:none;
+}
+ul,ol,li{
+    list-style:none;
+}
+img{
+    vertical-align:bottom;
+    width: 100%;
+}
+address,i{
+    font-style:normal;
+}
